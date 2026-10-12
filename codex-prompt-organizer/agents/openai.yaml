@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 提示模板整理"
+  short_description: "按常见工程用途整理易懂中文提示模板，复用已有手册并明确范围和验收标准"
+  default_prompt: "使用 $codex-prompt-organizer，基于我的现有手册按用途整理可直接复制的中文 Codex 提示模板。"
